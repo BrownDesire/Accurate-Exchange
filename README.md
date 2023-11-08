@@ -1,4 +1,4 @@
-##Accurate Exchange
+## Accurate Exchange
 
 Select countries to get the exchange rate for a specific amount
 
@@ -9,3 +9,9 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+## Authors:
+- Anosike Success
+- Chibueze Ehujuo 
+- Joseph Blessing 
+- Obinna Oragwu
